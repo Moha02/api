@@ -6,4 +6,4 @@ bcrypt
 python-jose
 python-multipart
 gunicorn
-uvicorb
+uvicorb[standard]
